@@ -40,3 +40,22 @@ State of the Art
 + [FVC-onGoing](https://biolab.csr.unibo.it/FVCOnGoing/UI/Form/Home.aspx)
   + [FVC2006](http://bias.csr.unibo.it/fvc2006/) - [2.155%](http://bias.csr.unibo.it/fvc2006/results/Open_resultsAvg.asp)
   + [ICB2013](https://biolab.csr.unibo.it/fvcongoing/UI/Form/ICB2013STFV.aspx) - 1.698%
+
+Open Source Project
+--------------------------------
+
+![](/images/openbr.png)
+
+### [OpenBR](http://openbiometrics.org/)
+
+#### Open Source Biometric Recognition
+
+A communal biometrics framework supporting the development of open algorithms and reproducible evaluations.
+
+![](/images/openbr-structure.svg)
+
+### Structure
+
+OpenBR  is a framework for investigating new modalities, improving existing algorithms, interfacing with commercial systems, measuring recognition performance, and deploying automated biometric systems. The project is designed to facilitate rapid algorithm prototyping, and features a mature core framework, flexible plugin system, and support for open and closed source development. Off-the-shelf algorithms are also available for specific modalities including Face Recognition, Age Estimation, and Gender Estimation.
+
+OpenBR originated within The MITRE Corporation from a need to streamline the process of prototyping new algorithms. The project was later published as open source software under the Apache 2 license and is **free for academic and commercial use**.
