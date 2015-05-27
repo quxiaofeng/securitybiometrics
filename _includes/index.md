@@ -46,7 +46,7 @@ Open Source Project
 
 ### [OpenBR](http://openbiometrics.org/)
 
-![](/images/openbr.png)
+![]({{ "/images/openbr.png" | prepend: site.baseurl | prpend: site.url }})
 
 #### Open Source Biometric Recognition
 
@@ -54,7 +54,7 @@ A communal biometrics framework supporting the development of open algorithms an
 
 ### Structure
 
-![](/images/openbr-structure.svg)
+![]({{ "/images/openbr-structure.svg" | prepend: site.baseurl | prpend: site.url }})
 
 OpenBR  is a framework for investigating new modalities, improving existing algorithms, interfacing with commercial systems, measuring recognition performance, and deploying automated biometric systems. The project is designed to facilitate rapid algorithm prototyping, and features a mature core framework, flexible plugin system, and support for open and closed source development. Off-the-shelf algorithms are also available for specific modalities including Face Recognition, Age Estimation, and Gender Estimation.
 
