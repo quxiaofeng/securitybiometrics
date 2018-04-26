@@ -1,7 +1,4 @@
-markdown: redcarpet
-pygments: true
-
-url: http://www.quxiaofeng.me
+url: http://www.quxiaofeng.me/securitybiometrics
 baseurl: /securitybiometrics
 
 title_tag_text: Security Biometrics
